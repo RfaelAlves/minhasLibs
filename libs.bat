@@ -1,6 +1,10 @@
-pip install pandas
-pip install openpyxl
-pip install pyodbc
-pip install SQLAlchemy
-pip install sqlalchemy-access
-pip install tqdm
+pip install pandas --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org
+pip install openpyxl --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org
+pip install pyodbc --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org
+pip install SQLAlchemy --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org
+pip install sqlalchemy-access --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org
+pip install tqdm --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org
+pip install virtualenv --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org
+pip install pywin32 --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org
+pip install pythonnet --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org
+pip install auto-py-to-exe --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host=files.pythonhosted.org
